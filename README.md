@@ -1,6 +1,6 @@
 # ThoughtLane
 
-Thought Lane is a blogging application that allows users to post, update, delete blogs, view other blogs, comment on each other's blogs, like them, and view other user profiles with their posted blogs. Built using Next.js, Node.js, Express.js, and MongoDB, Thought Lane offers a comprehensive blogging experience.
+ThoughtLane is a blogging application that allows users to post, update, delete blogs, view other blogs, comment on each other's blogs, like them, and view other user profiles with their posted blogs. Built using Next.js, Node.js, Express.js, and MongoDB, ThoughtLane offers a comprehensive blogging experience.
 
 ## Features
 
@@ -101,7 +101,7 @@ To get started with ThoughtLane, follow these steps:
 - **PUT /api/posts/:id** - Update a blog post.
 - **DELETE /api/posts/:id** - Delete a blog post.
 - **PUT /api/posts/:id/like** - Like or unlike a blog post.
-- **POST /api/posts/:id/comments** - Retrieve comments for a blog post.
+- **POST /api/posts/:id/comments** - Add a comment to a blog post.
 - **GET /api/posts/:id/comments** - Retrieve comments for a blog post.
 
 ## Contact
